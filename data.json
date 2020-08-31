@@ -1,0 +1,69 @@
+{
+        "services":[
+            {
+                "key":1,
+                "name" : "web design",
+                "text": "Lorem ipsum dolor sit amet, te novum fuisset mediocrem sit, elit simul putent sit no. Mei sumo iriure impedit ne, omnes periculis nam ea."
+                ,
+                "icon" : "cogs"
+            },
+            {
+                "key":2,
+                "name" : "Team Leadership",
+                "text": "Lorem ipsum dolor sit amet, te novum fuisset mediocrem sit, elit simul putent sit no. Mei sumo iriure impedit ne, omnes periculis nam ea."
+                ,
+                "icon" : "handshake"
+            }
+            ,
+            {
+                "key":3,
+                "name" : "Problem Solving",
+                "text": "Lorem ipsum dolor sit amet, te novum fuisset mediocrem sit, elit simul putent sit no. Mei sumo iriure impedit ne, omnes periculis nam ea.",
+                "icon" : "brain"
+            }
+            ,
+            {
+                "key":4,
+                "name" : "Mathematics power",
+                "text": "Lorem ipsum dolor sit amet, te novum fuisset mediocrem sit, elit simul putent sit no. Mei sumo iriure impedit ne, omnes periculis nam ea.",
+                "icon" : "sort-numeric-down-alt"
+            }
+        ],
+        "projects":[
+            {
+                "key":1,
+                "name1":"project 1",
+                "name2":"project 2"
+            },
+            {
+                "key":2,
+                "name1":"project 3",
+                "name2":"project 4"
+            },
+            {
+                "key":3,
+                "name1":"project 5"
+            }
+        ],
+        "contact":[
+            {
+                "key":1,
+                "icon":"mobile-alt",
+                "name":"Phone",
+                "details":"+20 1153611604"
+            },
+            {
+                "key":2,
+                "icon":"envelope",
+                "name":"E-mail",
+                "details":"Arfan0231@yahoo.com"
+            },
+            {
+                "key":3,
+                "icon":"map-marker-alt",
+                "name":"Address",
+                "details":"Los angelos - USA"
+            }
+
+        ]
+}
