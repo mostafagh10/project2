@@ -1,0 +1,22 @@
+.Services{
+    margin-top: 100px;
+    text-align: center;
+}
+.servicespan{
+    color:rgb(182, 17, 17);
+}
+.serviceheader{
+    font-size: 50px;
+    letter-spacing: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.servicecard{
+    height: 280px;
+    text-align: left;
+    padding: 15px;
+    margin-top: 10px;
+}
+.serviceicon{
+    font-size: 60px;
+    color: rgb(182, 17, 17);
+}

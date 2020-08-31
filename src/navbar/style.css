@@ -1,0 +1,35 @@
+.Nav{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+.navbar{
+    background-color: rgb(58, 57, 57);
+}
+.navbar-nav{
+    text-align: center;
+}
+.nav-link{
+    color: white;
+    margin-right: 25px;
+}
+.nav-link:hover{
+    color: rgb(182, 17, 17);
+}
+.navtwo{
+    color: white;
+    font-size: 25px;
+}
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+.navthree{
+    color: rgb(182, 17, 17);
+}
+.navbar-brand:hover{
+    color: white;
+}

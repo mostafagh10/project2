@@ -1,0 +1,18 @@
+.Contact{
+    text-align: center;
+}
+.contactheader{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+}
+.contactspan{
+    color: rgb(141, 31, 31);
+}
+.contacticon{
+    margin: auto;
+    font-size: 40px;
+    color: rgb(141, 31, 31);
+}
+.contactcard{
+    padding: 25px;
+}
